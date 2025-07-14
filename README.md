@@ -9,7 +9,7 @@
 
 - ⚙️ **Languages:** JavaScript, C++, Python
 - 🌐 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
-- 💻 **Backend:** Node.js, Express.js
+- 💻 **Backend:** Spring Boot , Node.js, Express.js
 - 💽 **Database:** MongoDB, MySQL
 - 📦 **Version Control:** Git & GitHub
 - 🛠️ **Tools & IDEs:** Visual Studio Code, Postman, NPM
